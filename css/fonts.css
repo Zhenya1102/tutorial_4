@@ -1,0 +1,48 @@
+/* Подключение шрифта Google fonts в css */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;700&display=swap');
+/* Подклдчение шрифта через плагин Google fonts в css */
+@import url('https://fonts.googleapis.com/css?family=Lobster:regular&display=swap');
+/* Подключение шрифта локально: Pliego - латиница  */
+@font-face {
+	font-family: "Pliego";
+	src: url("../fonts/Pliego-Regular.woff2") format("woff2"), url("../fonts/Pliego-Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Pliego";
+	src: url("../fonts/Pliego-Medium.woff2") format("woff2"), url("../fonts/Pliego-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Pliego";
+	src: url("../fonts/Pliego-Bold.woff2") format("woff2"), url("../fonts/Pliego-Bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+/* Подключение шрифта локально: NovemberLCG - латиница,кирилица  */
+@font-face {
+	font-family: "NovemberLCG";
+	src: url("../fonts/NovemberLCG-Regular.woff2") format("woff2"), url("../fonts/NovemberLCG-Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "NovemberLCG";
+	src: url("../fonts/NovemberLCG-RegularItalic.woff2") format("woff2"), url("../fonts/NovemberLCG-RegularItalic.woff") format("woff");
+	font-weight: 400;
+	font-style: italic;
+	font-display: swap;
+}
+@font-face {
+	font-family: "NovemberLCG";
+	src: url("../fonts/NovemberLCG-Black.woff2") format("woff2"), url("../fonts/NovemberLCG-Black.woff") format("woff");
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}

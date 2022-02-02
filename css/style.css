@@ -1,0 +1,130 @@
+/* Обнуление */
+@import "null.css";
+/* Подключение шрифтов */
+@import "fonts.css";
+
+h1 {
+	font-family: "Zen Kurenaido", sans-serif;
+	font-size: 35px;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+	text-decoration: underline;
+	text-shadow: 1px 1px 0.5px rgb(122, 108, 108);
+	text-transform: uppercase;
+	line-height: 1.5;
+	letter-spacing: 2px;
+	word-spacing: 7px;
+}
+.passion {
+	font-family: "Lobster", sans-serif;
+	font-size: 20px;
+	text-decoration: none;
+}
+.header {
+	font-family: "Oswald", sans-serif;
+	font-size: 20px;
+	text-indent: 10px;
+	text-align: justify;
+}
+.nav {
+	color: #31040bea;
+	font-family: "NovemberLCG", sans-serif;
+	font-size: 14px;
+	text-align: center;
+	word-spacing: 10px;
+	line-height: 1.7;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 0.3px rgb(206, 191, 191);
+}
+#section1 {
+	font-family: "NovemberLCG", sans-serif;
+	text-indent: 15px;
+	font-size: 33px;
+   color: blue;
+	font-style: italic;
+}
+.text1 {
+	font-family: "Pliego", sans-serif;
+	font-size: 22px;
+	text-indent: 15px;
+	color: brown;
+	text-transform: capitalize;
+}
+#section2 {
+	font-family: "Pliego", sans-serif;
+	font-weight: 700;
+	font-size: 33px;
+	text-indent: 15px;
+	text-align: center;
+	text-decoration: underline;
+	letter-spacing: 2px;
+}
+.text2 {
+   font-family: "NovemberLCG", sans-serif;
+	line-height: 1.5;
+	color: rgb(54, 75, 34);
+	font-size: 20px;
+	font-style: italic;
+}
+#section3 {
+	font-family: "Oswald", sans-serif;
+	color: darkblue;
+	font-size: 33px;
+	text-align: center;
+	font-weight: 500;
+}
+.text3 {
+	font-family: "Oswald", sans-serif;
+	color: darkgreen;
+	font-size: 22px;
+	text-indent: 15px;
+	text-decoration: overline;
+	text-shadow: 1px 1px 0.3px rgb(53, 38, 38);
+}
+#section4 {
+	font-family: "Zen Kurenaido", sans-serif;
+	font-size: 36px;
+	color: darkslateblue;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+}
+.text4 {
+	font-family: "Oswald", sans-serif;
+	font-size: 23px;
+	word-spacing: 13px;
+	color: dodgerblue;
+	text-indent: 15px;
+}
+#section5,
+#section6,
+#section7 {
+	font-family: "NovemberLCG", sans-serif;
+	color: rgb(28, 17, 194);
+	font-size: 44px;
+	text-align: center;
+	font-weight: 900;
+}
+.text5,
+.text6,
+.text7 {
+	font-family: "Zen Kurenaido", sans-serif;
+	color: indianred;
+	font-size: 23px;
+	text-decoration: underline;
+	text-transform: lowercase;
+	text-indent: 15px;
+}
+.social {
+	font-family: "Oswald", sans-serif;
+	color: lightslategray;
+	font-size: 18px;
+	text-align: center;
+	text-shadow: 1px 1px 0.3px rgb(53, 38, 38);
+}
+.page {
+	font-family: "NovemberLCG", sans-serif;
+	color: maroon;
+	font-size: 20px;
+}
